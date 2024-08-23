@@ -1,0 +1,44 @@
+       body {
+            font-family: "Times New Roman", Times, serif;
+            background-color: #000000;
+            color: #ffffff;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+        .container {
+            background-color: #ffffff;
+            color: #000000;
+            padding: 2rem;
+            border-radius: 8px;
+            width: 300px;
+        }
+        h1 {
+            text-align: center;
+        }
+        form {
+            display: flex;
+            flex-direction: column;
+        }
+        label {
+            margin-top: 1rem;
+        }
+        input {
+            margin-top: 0.5rem;
+            padding: 0.5rem;
+            font-family: "Times New Roman", Times, serif;
+        }
+        button {
+            margin-top: 1rem;
+            padding: 0.5rem;
+            background-color: #000000;
+            color: #ffffff;
+            border: none;
+            cursor: pointer;
+            font-family: "Times New Roman", Times, serif;
+        }
+        button:hover {
+            background-color: #333333;
+}

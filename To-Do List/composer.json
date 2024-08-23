@@ -1,0 +1,14 @@
+{
+    "name": "ujian/my-website",
+    "description": "ini adalah Website saya",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Muhammad Farid Gunawan"
+        }
+    ],
+    "require": {},
+    "scripts": {
+        "server": "php -S localhost:8080"
+    }
+}

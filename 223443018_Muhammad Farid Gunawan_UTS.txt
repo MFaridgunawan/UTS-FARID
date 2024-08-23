@@ -1,0 +1,15 @@
+Muhammad Farid Gunawan 
+223443018
+2 AEC-1
+
+Membuat Aplikasi To-Do List kegunaannya untuk mencatat apa saja kegiatan yang akan dilakukan saya menggunakan konsep oop class dan object saya telah membuat kelas ToDoList yang memiliki properti $items untuk menyimpan daftar tugas. Kelas ini juga memiliki metode tambahTugas, hapusTugas, dan getTugas untuk menambah, menghapus, dan mendapatkan daftar tugas.
+Saya juga telah membuat objek $toDoList dari kelas ToDoList dan menggunakan objek ini untuk mengakses metode-metode yang ada di kelas ToDoList.
+
+di web tersebut ada 4 halaman yaitu :
+- Home :halaman awal to-do list
+- About: tentang to-do list
+- Login : untuk Login akun 
+- Index : untuk mencatat To-Do list
+
+
+saya tidak menggunakan library package dan database my sql karena error.

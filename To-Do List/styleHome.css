@@ -1,0 +1,34 @@
+body {
+    background-color: #000; /* black background */
+    color: #fff; /* white text */
+    font-family: 'Times New Roman', Times, serif;
+  }
+  
+  h1 {
+    font-size: 36px;
+    margin-bottom: 10px;
+    font-family: 'Times New Roman', Times, serif;;
+  }
+  
+  p {
+    margin-bottom: 20px;
+  }
+  
+  a {
+    text-decoration: none;
+    color: #333; /* white text */
+    background-color: #fff; /* dark gray background */
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  
+  a:hover {
+    background-color: #444; /* darker gray background on hover */
+  }
+  
+  a:active {
+    background-color: #555; /* darkest gray background on active */
+  }
